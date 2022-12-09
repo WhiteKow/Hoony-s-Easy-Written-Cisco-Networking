@@ -8,7 +8,7 @@
 
 |           Date            |     Description     |                Reviewer                 |                                                                                     Link                                                                                     |
 | :-----------------------: | :-----------------: | :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **2022-12-03(Sat)/09:00** |  Ch.2   | @hhhyunwoo, @jjangsungwon, @ChanhuiSeok | |
+| **2022-12-03(Sat)/09:00** |  Ch.2   | @hhhyunwoo, @jjangsungwon, @ChanhuiSeok | [Ch2](https://github.com/WhiteKow/hoony-easy-written-cisco-networking-study/issues/1) |
 | **2022-12-10(Sat)/09:00** |  Ch.3   | @hhhyunwoo, @jjangsungwon, @ChanhuiSeok | |
 | **2022-12-17(Sat)/09:00** |  Ch.4   | @hhhyunwoo, @jjangsungwon, @ChanhuiSeok | |
 | **2022-12-24(Sat)/09:00** |  Ch.5   | @hhhyunwoo, @jjangsungwon, @ChanhuiSeok | |
